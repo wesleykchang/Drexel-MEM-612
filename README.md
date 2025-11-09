@@ -1,4 +1,4 @@
-# Winter-2025-MEM-612
+# Drexel-MEM-612
 
 Convective Heat Transfer
 
